@@ -15,4 +15,7 @@ public class Distribuidor extends Pessoa {
         super(nome, pontuacao);
         this.ativo = ativo;
     }
+    public Distribuidor(){
+
+    }
 }
